@@ -13,6 +13,8 @@ The project has two official places, and only these two:
 - **This page:** https://github.com/vancevcs/VPORT
 - **Discord:** https://discord.gg/SCcnMRaggm, where every update is posted with its files
 
+How it works, for the technically curious: [technical overview](TECHNICAL.md).
+
 ---
 
 ## If you paid for it
@@ -42,6 +44,8 @@ You were scammed. Everything the project makes is free, for everyone: there is n
 
 - **本页面：** https://github.com/vancevcs/VPORT
 - **Discord：** https://discord.gg/SCcnMRaggm （每次更新都连同文件发布在这里）
+
+技术说明（英文）：[TECHNICAL.md](TECHNICAL.md)
 
 ### 如果你付了钱
 
