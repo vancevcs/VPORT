@@ -1,6 +1,15 @@
 VPORT - GTA V for iPhone, iPad and Mac
 ======================================
 
+> [!IMPORTANT]
+> **Development has ended.** The 27 Nov 2026 update is the last one: there won't be any more updates, fixes or new
+> features. The game keeps working, and so do the servers you host yourself.
+>
+> Thank you to every tester who sent logs and crash reports, everyone who made and shared mods and packs, the
+> translators, and everyone who helped others on Discord. This project only got this far because of you. 💙
+>
+> **开发已结束。** 2026 年 11 月 27 日的更新是最后一次更新，今后不会再有任何更新、修复或新功能。
+
 **This project was, is and will forever be free. If you paid anyone for access to it, you were scammed.**
 
 **本项目过去、现在、将来都永久免费。如果你为此付过钱，你就被骗了。** [中文说明](#中文)
@@ -35,6 +44,11 @@ You were scammed. Everything the project makes is free, for everyone: there is n
 ---
 
 ## 中文
+
+> [!IMPORTANT]
+> **开发已结束。** 2026 年 11 月 27 日的更新是最后一次更新，今后不会再有任何更新、修复或新功能。游戏会继续正常运行，你自己搭建的服务器也一样。
+>
+> 感谢每一位发送日志和崩溃报告的测试者、每一位制作和分享模组与资源包的朋友、各位译者，以及在 Discord 上帮助过别人的每一个人。没有你们，这个项目走不到今天。💙
 
 **本项目过去、现在、将来都永久免费。如果你为此付过钱，你就被骗了。**
 
